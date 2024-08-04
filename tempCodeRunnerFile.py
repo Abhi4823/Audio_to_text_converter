@@ -1,0 +1,1 @@
+fs.write('{} -- {}\n'.format(n.strftime("%Y-%m-%d %H:%M:%S"),text))
